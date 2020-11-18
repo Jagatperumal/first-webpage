@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: chartreuse;
+    font-size: 25px;
+}
+h1{
+    color: blue;
+    
+}
+h2{
+    color: cyan;
+}
+p{
+color:coral; 
+}
+img{
+    width: 350px;
+    
+}
